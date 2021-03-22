@@ -1114,7 +1114,7 @@ elif [ $zCh = 4 ]; then
    fi
 
 elif [ $zCh = 5 ]; then
-echo -e "\e[92mCoded By:\e[0m\e[94m Zech Bron\e[0m"
+echo -e "\e[92mCoded By:\e[0m\e[94m MALIK ATIQUZ ZAMAN\e[0m"
 
 echo -e "\e[36mIf you encounter an error. Please send me a message here \e[0m\e[96m'zech@mbox.re'\e[0m\e[0m\n"
 
