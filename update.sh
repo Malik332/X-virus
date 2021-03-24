@@ -8,9 +8,9 @@ read ChB
 
 if [ "$ChB" = "y" ]; then
 cd $HOME
-rm -rf zVirus-Gen
-git clone https://github.com/ZechBron/zVirus-Gen
-cd zVirus-Gen
+rm -rf X-virus
+git clone https://github.com/MALIK332/X-virus
+cd X-virus
 bash setup.sh
 elif [ "$ChB" = "n" ]; then
 echo "Ok"
